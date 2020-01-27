@@ -1,0 +1,33 @@
+{
+  "name": "s4nstats_bfruiz",
+  "version": "1.0.1",
+  "description": "npm module for request github developer profile",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "brayam ruiz",
+  "license": "MIT",
+  "bin": {
+    "random-names_bfruiz": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfruiz04/s4nstats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bfruiz04/s4nstats/issues"
+  },
+  "homepage": "https://github.com/bfruiz04/s4nstats#readme"
+}
